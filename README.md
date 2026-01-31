@@ -23,7 +23,7 @@ This question is critical for:
 - International firms managing FX exposure
 ## Exchange Rate Overview
 
-![CAD/USD Exchange Rate Trend (2017–2023)] <img width="549" height="403" alt="Image" src="https://github.com/user-attachments/assets/c6ec8f4b-9827-4090-bd9c-29b325f31087" />
+<img width="549" height="403" alt="Image" src="https://github.com/user-attachments/assets/c6ec8f4b-9827-4090-bd9c-29b325f31087" />
 
 
 *Figure: Annual average CAD/USD exchange rate. Higher values indicate CAD depreciation.*
@@ -43,7 +43,7 @@ the trade balance if the sum of export and import demand elasticities exceeds on
 All variables are transformed into natural logarithms.
 ## Trade Flow Overview
 
-![Canada Exports and Imports (2017–2023)](Pic/Screenshot 2026-02-01 004846.png)
+<img width="587" height="370" alt="Image" src="https://github.com/user-attachments/assets/79e354b9-0ab2-4d6d-8c51-01288b4fa95f" />
 
 *Figure: Trends in Canadian exports and imports during the study period.*
 
@@ -71,14 +71,12 @@ Where:
 
 - ### Export Response to Exchange Rate
 
-![ln(Exports) vs ln(Exchange Rate)](figures/ln_exports_vs_ln_er.png)
-
+<img width="460" height="386" alt="Image" src="https://github.com/user-attachments/assets/2a6e1787-6aad-4676-9a8a-f6601396ca87" />
 *Figure: Log–log relationship between exports and exchange rate.*
 
 ### Import Response to Exchange Rate
 
-![ln(Imports) vs ln(Exchange Rate)](figures/ln_imports_vs_ln_er.png)
-
+<img width="423" height="356" alt="Image" src="https://github.com/user-attachments/assets/fa30218c-1899-47f5-ba9c-1d0f7e8377f9" />
 *Figure: Log–log relationship between imports and exchange rate.*
 
 
@@ -89,6 +87,8 @@ Logarithmic transformation provides three advantages:
 - Coefficients are directly interpretable as elasticities
 - Percentage-based interpretation aligns with business and policy decision-making
 - Log transformation reduces scale effects and improves comparability over time
+
+<img width="777" height="530" alt="Image" src="https://github.com/user-attachments/assets/7e90b24a-b5d2-444d-af2c-f0fefb225cc9" />
 
 ### Decision Interpretation
 
