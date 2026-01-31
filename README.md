@@ -44,7 +44,7 @@ the trade balance if the sum of export and import demand elasticities exceeds on
 All variables are transformed into natural logarithms.
 ## Trade Flow Overview
 
-![Canada Exports and Imports (2017–2023)]((https://github.com/SARAT67012/Exchange-Rate-Volatility-Canada-s-Trade-Balance-2017-2023-Testing-the-Marshall-Lerner-Condition/blob/main/Pic/Screenshot%202026-02-01%20004846.png?raw=true)
+![Canada Exports and Imports (2017–2023)](Pic/Screenshot 2026-02-01 004846.png)
 
 *Figure: Trends in Canadian exports and imports during the study period.*
 
