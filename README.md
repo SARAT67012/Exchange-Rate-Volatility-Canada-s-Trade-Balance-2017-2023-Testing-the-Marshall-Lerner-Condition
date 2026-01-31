@@ -23,7 +23,7 @@ This question is critical for:
 - International firms managing FX exposure
 ## Exchange Rate Overview
 
-![CAD/USD Exchange Rate Trend (2017–2023)]([figures/exchange_rate_trend.png](https://github.com/SARAT67012/Exchange-Rate-Volatility-Canada-s-Trade-Balance-2017-2023-Testing-the-Marshall-Lerner-Condition/blob/03203d9ee8a56b2ea9a2955f51736f8783c5a66d/Pic/Screenshot%202026-02-01%20004805.png))
+![CAD/USD Exchange Rate Trend (2017–2023)](Pic/Screenshot 2026-02-01 004805.png))
 
 *Figure: Annual average CAD/USD exchange rate. Higher values indicate CAD depreciation.*
 
