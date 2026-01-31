@@ -72,11 +72,15 @@ Where:
 - ### Export Response to Exchange Rate
 
 <img width="460" height="386" alt="Image" src="https://github.com/user-attachments/assets/2a6e1787-6aad-4676-9a8a-f6601396ca87" />
+
+
 *Figure: Log–log relationship between exports and exchange rate.*
 
 ### Import Response to Exchange Rate
 
 <img width="423" height="356" alt="Image" src="https://github.com/user-attachments/assets/fa30218c-1899-47f5-ba9c-1d0f7e8377f9" />
+
+
 *Figure: Log–log relationship between imports and exchange rate.*
 
 
