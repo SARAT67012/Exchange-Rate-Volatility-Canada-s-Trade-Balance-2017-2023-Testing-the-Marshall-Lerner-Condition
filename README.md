@@ -1,2 +1,3 @@
-# Exchange-Rate-Volatility-Canada-s-Trade-Balance-2017-2023-Testing-the-Marshall-Lerner-Condition
-Exchange Rate Volatility &amp; Canada’s Trade Balance (2017–2023) Testing the Marshall–Lerner Condition
+# Exchange Rate Volatility & Trade Balance  
+### An Econometric Test of the Marshall–Lerner Condition (Canada, 2017–2023)
+
