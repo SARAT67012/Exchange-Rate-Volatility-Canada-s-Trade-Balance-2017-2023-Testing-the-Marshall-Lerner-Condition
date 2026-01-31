@@ -21,6 +21,8 @@ This question is critical for:
 - Central banks
 - Trade policy makers
 - International firms managing FX exposure
+
+  
 ## Exchange Rate Overview
 
 <img width="549" height="403" alt="Image" src="https://github.com/user-attachments/assets/c6ec8f4b-9827-4090-bd9c-29b325f31087" />
@@ -31,8 +33,47 @@ This question is critical for:
 
 ## Economic Theory
 
-According to the Marshall–Lerner condition, a currency depreciation improves
-the trade balance if the sum of export and import demand elasticities exceeds one.
+The relationship between exchange rates and the trade balance is a central concept
+in international economics and macroeconomic policy.
+
+When a country’s currency depreciates, its goods become cheaper for foreign buyers,
+while imported goods become more expensive for domestic consumers. In theory, this
+relative price change should increase exports and reduce imports, leading to an
+improvement in the trade balance.
+
+
+### Exchange Rate Transmission Mechanism
+
+Currency depreciation affects the trade balance through two primary channels:
+
+- **Export channel**  
+  A weaker currency lowers export prices in foreign currency terms, increasing
+  international competitiveness and potentially raising export volumes.
+
+- **Import channel**  
+  Depreciation increases the domestic currency price of imports, which may reduce
+  import demand as consumers and firms substitute toward domestic alternatives.
+
+The strength of these channels depends on how responsive trade volumes are to price
+changes.
+
+
+### Marshall–Lerner Condition
+
+The Marshall–Lerner condition formalizes this relationship by linking exchange rate
+movements to trade elasticities. It states that a currency depreciation will improve
+the trade balance if the absolute sum of export and import demand elasticities
+exceeds one:
+
+**|Export Elasticity| + |Import Elasticity| > 1**
+
+If this condition holds, the increase in export volumes and the reduction in import
+volumes outweigh the adverse price effects of depreciation, leading to an improved
+trade balance.
+
+If the condition does not hold, depreciation may have little effect—or may even
+worsen—the trade balance, particularly in economies with inelastic trade flows.
+
 
 ## Data
 
@@ -101,3 +142,22 @@ Logarithmic transformation provides three advantages:
 - If |β₁| + |β₂| > 1, exchange rate depreciation can improve the trade balance
 - If not, structural factors dominate currency effects
 
+## Key Findings
+
+- Export elasticity is statistically insignificant
+- Import elasticity is statistically insignificant
+- Marshall–Lerner condition does not hold
+
+- ## Business & Policy Implications
+
+- Currency depreciation alone cannot improve Canada’s trade balance
+- Structural diversification matters more than FX policy
+- Firms should hedge FX risk rather than rely on depreciation benefits
+
+## Tools & Skills
+
+- Python (pandas, statsmodels, matplotlib)
+- Econometrics
+- Time-series analysis
+- Data visualization
+- Economic policy analysis
